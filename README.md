@@ -10,3 +10,7 @@ If you don't trust the pre-built executable, you can install Python on your syst
 the `main.py` from this repo and run it with `python main.py <num_windows>`
 
 Have fun!
+
+# Acknowledgements
+
+Thanks to [catppuccin](https://github.com/catppuccin) for providing the color scheme 👍
